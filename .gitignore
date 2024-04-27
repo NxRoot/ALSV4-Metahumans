@@ -1,3 +1,26 @@
 version https://git-lfs.github.com/spec/v1
 oid sha256:1f557f6904d8c106a6708657488dd2ba1acbd5e74fda79ba050e00b4495aebc4
 size 95
+
+# Visual Studio 2015 user specific files
+.vs/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Binary Files
+Binaries/*
+Plugins/*/Binaries/*
+
+# Builds
+Build/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
