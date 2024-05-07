@@ -1,17 +1,19 @@
-# ALSV4-Metahumans
-UE5 -  Metahuman Advanced Locomotion System
+# ALSV4-UE5 (Metahumans)
+UE5 - Advanced Locomotion System (Replicated)
 
-|<img src="https://iili.io/HG7TdMX.gif"><img> |<img src="https://iili.io/HG7Tzo7.gif"><img>|
+|<img src="https://iili.io/JrEocvI.gif"><img> |<img src="https://iili.io/JrETT9p.gif"><img>|
 |--|--|
+|<img src="https://iili.io/JrEcX6P.gif"><img> |<img src="https://iili.io/JrEo8Zu.gif"><img>|
+
 
 # Features
-- [ALS animations](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) are fully retargeted to the Metahuman skeleton.
-- Fixed Aim, Mantle, Roll, Crouch Animations.
-- Fixed FootIK, Ragdoll, Weapon Sockets.
+- Network Replicated.
+- [ALS animations](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) retargeted to ***UE5*** skeleton.
 - Can be used with any metahuman.
+- Fixed FootIK, Roll, Ragdoll.
 - Clean ALS files.
 
 # Tutorial
-https://www.youtube.com/watch?v=R9fEO2O0wzk
+[https://www.youtube.com/watch?v=R9fEO2O0wzk](https://youtu.be/9T-ZC31GjBY)
 
-[![TUTORIAL VIDEO](https://img.youtube.com/vi/R9fEO2O0wzk/0.jpg)](https://www.youtube.com/watch?v=R9fEO2O0wzk)
+[![TUTORIAL VIDEO](https://img.youtube.com/vi/9T-ZC31GjBY/0.jpg)](https://youtu.be/9T-ZC31GjBY)
